@@ -1,0 +1,6 @@
+2023-09-17 19:30:52,287 - INFO - Document 'reports/OpenCST/output.tex' has been generated and compiled successfully.
+2023-09-17 19:42:32,477 - ERROR - Error occurred while compiling the LaTeX document.
+2023-09-17 19:44:30,455 - INFO - Document 'reports/OpenCST/output.tex' has been generated and compiled successfully.
+2023-09-17 19:53:37,181 - ERROR - An error occurred: [Errno 21] Is a directory: 'reports/OpenCST'
+2023-09-17 20:03:11,707 - INFO - Document 'reports/OpenCST/output.tex' has been generated and compiled successfully.
+2023-09-17 20:22:57,017 - INFO - Document 'reports/OpenCST/OpenCST.tex' has been generated and compiled successfully.
